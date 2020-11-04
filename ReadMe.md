@@ -3,7 +3,7 @@ First you need to create pool or poolgroup asset.
 
 ![create](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/create.png)
 
-<p>Fill all properties.  
+Fill all properties.  
 If use name as tag - after spawn object you can return it to pool using  
 ObjectPooler.Instance.ReturnObject(gameObject, gameObject.name);  
 If use autoreturn object will be returned to pool automatically after delay you set.  
