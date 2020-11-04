@@ -2,10 +2,10 @@
 First you need to create pool or poolgroup asset
 ![create](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/create.png)
 
-Fill all properties
-If use name as tag - after spawn object you can return it to pool using
-ObjectPooler.Instance.ReturnObject(gameObject, gameObject.name);
-If use autoreturn object will be returned to pool automatically after delay you set
+<p>Fill all properties
+<p>If use name as tag - after spawn object you can return it to pool using
+<p>ObjectPooler.Instance.ReturnObject(gameObject, gameObject.name);
+<p>If use autoreturn object will be returned to pool automatically after delay you set
 ![pool](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/pool.png)
 
 If you need to spawn some objects random or weighted random use pool groups
@@ -13,10 +13,11 @@ Create pools for all objects you need, create pool group asset and assign to it 
 Set all weights if you need - objects with higher weight will spawn more often
 ![group](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/group.png)
 
-Last step in work in editor - assign all pools and groups to pooler
-All pools in pool groups assets will be assigned automatically
+<p>Last step in work in editor - assign all pools and groups to pooler
+<p>All pools in pool groups assets will be assigned automatically
 ![pooler](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/pooler.png)
 ![code](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/poolerEditor.png?raw=true)
+
 # **Code examples**
 
 ```C#
