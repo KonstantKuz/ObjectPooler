@@ -1,5 +1,5 @@
 ﻿# **How to work with pooler in editor**
-First you need to create pool or poolgroup asset
+<p>First you need to create pool or poolgroup asset
 
 ![create](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/create.png)
 
@@ -10,16 +10,15 @@ First you need to create pool or poolgroup asset
 
 ![pool](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/pool.png)
 
-If you need to spawn some objects random or weighted random use pool groups
-Create pools for all objects you need, create pool group asset and assign to it all pools
-Set all weights if you need - objects with higher weight will spawn more often
+<p>If you need to spawn some objects random or weighted random use pool groups
+<p>Create pools for all objects you need, create pool group asset and assign to it all pools
+<p>Set all weights if you need - objects with higher weight will spawn more often
 
 ![group](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/group.png)
 
 <p>Last step in work in editor - assign all pools and groups to pooler
 <p>All pools in pool groups assets will be assigned automatically
 
-![pooler](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/pooler.png)
 ![poolerEditor](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/poolerEditor.gif)
 
 # **Code examples**
