@@ -16,7 +16,7 @@ Set all weights if you need - objects with higher weight will spawn more often
 <p>Last step in work in editor - assign all pools and groups to pooler
 <p>All pools in pool groups assets will be assigned automatically
 ![pooler](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/pooler.png)
-![code](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/poolerEditor.png?raw=true)
+![pooler](https://github.com/KonstantKuz/ObjectPooler/blob/master/TutorScreenshots/poolerEditor.gif)
 
 # **Code examples**
 
